@@ -1,9 +1,7 @@
 
-# Olá Amorex 
+## Hello World and Gurias, Guris e Gurizes, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
 
- ✨ _special_ ✨ GitHub profile!!
-
- ## Hello, world, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
+✨ _special_Teacher ✨ GitHub profile!!
 
 Esta sou eu...
 
