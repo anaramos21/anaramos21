@@ -1,5 +1,5 @@
 
-### Olá Amorex <img src="https://id.pinterest.com/qila6/heart-rouge-gif/" width="36px">
+### Olá Amorex <img src="https://id.pinterest.com/qila6/heart-rouge-gif" width="36px">
 
  ✨ _special_ ✨ GitHub profile!!
 
