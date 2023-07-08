@@ -1,5 +1,5 @@
 
-### Olá Amorex <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
+### Olá Amorex <img src="https://tenor.com/pt-BR/view/heart-gif-26354264" width="36px">
 
  ✨ _special_ ✨ GitHub profile!!
 
