@@ -1,9 +1,9 @@
 
-## Olá Amorex 
+# Olá Amorex 
 
  ✨ _special_ ✨ GitHub profile!!
 
- # Hello, world, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
+ ## Hello, world, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
 
 Esta sou eu...
 
@@ -29,7 +29,7 @@ Esta sou eu...
 </div>
 <br/>
 
-###Ferramentas
+## Ferramentas
 
 <br>
 <div style="display: inline_block">
