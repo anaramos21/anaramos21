@@ -25,7 +25,8 @@ Esta sou eu...
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="dotenet" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-   
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+ <img align="center" alt="sql" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
 </div>
 <br/>
 
