@@ -42,4 +42,3 @@ Esta sou eu...
 <br/>
 
 
-![Snake animation](https://github.com/Gutoneitzke/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
