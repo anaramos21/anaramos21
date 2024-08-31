@@ -1,9 +1,9 @@
 
-#Hello World and Gurias, Guris e Gurizes, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
+# Hello World and Gurias, Guris e Gurizes, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
 
-##✨ _special_Teacher ✨ GitHub profile!!
+## ✨ _special_Teacher ✨ GitHub profile!!
 
-###Esta sou eu...
+### Esta sou eu...
 
 - 🔭 Professora de Exatas (Matemática, Química, Física, Ciências) e de Computação. Deva em horas vagas...
 - 🌱 Atualmente sou , também, pesquisadora acadêmica do Mestrado de Tecnologias Educaionais em Rede.
@@ -42,22 +42,20 @@
 </div>
 <br/>
 
-
-## 🌴 Languages and Frameworks
+## 🌴 Languagens e Frameworks
 
 [![Front-End](https://img.shields.io/badge/Front%20End-VueJS-brightgreen.svg)](https://vuejs.org/index.html)
 [![Back-End](https://img.shields.io/badge/Back%20End-NodeJS-green.svg)](https://nodejs.org/en/)
 [![iOS](https://img.shields.io/badge/iOS-Swift5-orange.svg)](https://developer.apple.com/xcode/swiftui/)
 [![Tool](https://img.shields.io/badge/Tool-Webpack-blue.svg)](https://webpack.js.org/)
 
-## ✔️ I'm currently learning
+## ✔️ Atualmente estou aprendendo...
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [RedwoodJS](https://redwoodjs.com/)
 - Music
 
+## 💻 Estatísticas do meu trabalho!
 
-## 💻 Open Source Work Stats
-
-[![Lance's github stats](https://github-readme-stats.vercel.app/api?username=evestorm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lance's github stats](https://github-readme-stats.vercel.app/api?username=anaramos21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
