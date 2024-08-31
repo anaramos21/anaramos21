@@ -1,7 +1,7 @@
 
 # Hello World and Gurias, Guris e Gurizes, hehehe! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="36px">
 
-## ✨ _special_Teacher ✨ GitHub profile!!
+## ✨ _Technical_Teacher ✨ GitHub profile!!
 
 ### Esta sou eu...
 
@@ -29,6 +29,11 @@
 </div>
 <br/>
 
+## 🌴 Linguagens e Frameworks
+
+[![Front-End](https://img.shields.io/badge/Front%20End-VueJS-brightgreen.svg)](https://vuejs.org/index.html)
+[![Back-End](https://img.shields.io/badge/Back%20End-NodeJS-green.svg)](https://nodejs.org/en/)
+
 ##  Ferramentas
 
 <br>
@@ -42,18 +47,12 @@
 </div>
 <br/>
 
-## 🌴 Languagens e Frameworks
-
-[![Front-End](https://img.shields.io/badge/Front%20End-VueJS-brightgreen.svg)](https://vuejs.org/index.html)
-[![Back-End](https://img.shields.io/badge/Back%20End-NodeJS-green.svg)](https://nodejs.org/en/)
-[![iOS](https://img.shields.io/badge/iOS-Swift5-orange.svg)](https://developer.apple.com/xcode/swiftui/)
-[![Tool](https://img.shields.io/badge/Tool-Webpack-blue.svg)](https://webpack.js.org/)
 
 ## ✔️ Atualmente estou aprendendo...
 
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- [RedwoodJS](https://redwoodjs.com/)
-- Music
+- PowerBI
+- Android
+- IA
 
 ## 💻 Estatísticas do meu trabalho!
 
