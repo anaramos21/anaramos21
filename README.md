@@ -64,7 +64,7 @@
 
 ---
 
-### 🌈 Mensagem final
+### 🌈 
 
 > **"A tecnologia deve ser ponte, nunca barreira."**  
 > Meus projetos são feitos com carinho, com foco em inclusão, criatividade e impacto educacional positivo. Vem fazer parte disso também!
